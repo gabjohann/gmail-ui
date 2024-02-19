@@ -16,7 +16,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   - [Tailwindcss](https://tailwindcss.com)
-  - [TypeScript](hhttps://www.typescriptlang.org)
+  - [TypeScript](https://www.typescriptlang.org)
   - [React Native](https://reactnative.dev/)
   - [Clsx](https://github.com/lukeed/clsx)
   - [Expo](https://expo.dev/)
